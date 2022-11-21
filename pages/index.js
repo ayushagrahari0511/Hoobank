@@ -9,7 +9,7 @@ export default function Home() {
       <Head>
         <title>HooBank</title>
         <meta name="description" content="HooBank" />
-        <link rel="icon" href='../assets/logo.svg' />
+        <link rel="icon" href='./logo.svg' />
       </Head>
 
       <main className="bg-primary w-full overflow-hidden">
